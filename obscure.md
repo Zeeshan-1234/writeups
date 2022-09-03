@@ -1,5 +1,5 @@
 # Obscure - TryHackMe
-Link to the room: https://tryhackme.com/room/obscured
+Link to the room: https://tryhackme.com/jr/obscured
 
 This is the official writeup for the room. We'll start with the usual enumeration.
 
